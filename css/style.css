@@ -350,6 +350,7 @@ body.is-home .site-header:not(.is-solid) .nav-toggle span {
 }
 
 .hero-scroll {
+  display: none;
   margin-top: 56px;
   width: 1px;
   height: 48px;
